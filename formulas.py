@@ -18,7 +18,7 @@ def intensity_transmission_coefficient(
     :param layer_two:   matter
     :param layer_three: matter
     :param frequency:   frequency in Hertz
-    :param L:           layer two length meters
+    :param L:           layer two length in meters
     :return:            intensity transmission coefficient [-]
     """
 
